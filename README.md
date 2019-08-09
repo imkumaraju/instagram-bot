@@ -4,6 +4,8 @@ In this script I developed my own Instagram Bot using Python and Selenium.
 
 For your bot you will want to adjust the tags and the time intervals between image likes. 
 
+Use Mozilla browser if using second script.
+
 ##prerequisites:
   1.Python3
     -terminal command: pip install python3
