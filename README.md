@@ -6,11 +6,14 @@ For your bot you will want to adjust the tags and the time intervals between ima
 
 ##prerequisites:
 1.Python3
-   -terminal command: pip install python3
-   -[documentation]:(https://docs.python.org/)
+  -terminal command: pip install python3
+  -[documentation]:(https://docs.python.org/)
+  
 2. Selinium
-   -terminal command: pip install selenium
-   -[documentation]:(https://www.seleniumhq.org/docs/)
+  -terminal command: pip install selenium
+  -[documentation]:(https://www.seleniumhq.org/docs/)
+  
 3. Geocodriver:
-    -[link]:(https://github.com/mozilla/geckodriver/releases)
-4. Chrome browser   
+   -[link]:(https://github.com/mozilla/geckodriver/releases)
+   
+4. Chrome browser
